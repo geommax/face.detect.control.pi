@@ -7,7 +7,7 @@
 
 ### 16x2 LCD
 
-> welcome WYTU Attanences System
+> welcome System
 > time, 
 > ip address
 > warming servo
