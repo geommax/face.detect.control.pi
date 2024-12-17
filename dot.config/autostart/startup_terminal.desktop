@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=lxterminal -e /home/bot/startup_script.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Startup Terminal
+Comment=Open terminal and run startup script
